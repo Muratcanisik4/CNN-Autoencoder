@@ -1,6 +1,6 @@
 # CNN-Autoencoder
 
-Please downloand Autoencoder Jupyter Source File and integrate into Google Colab.
+Please download Autoencoder Jupyter Source File and integrate it into Google Colab.
 
 
-Please download all .vhd files and integrate your FPGA software (Quartus, Vivado, Propel).
+Please download all .vhd files and integrate them your FPGA software (Quartus, Vivado, Propel).
